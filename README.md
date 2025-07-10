@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=happydreammmer&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
   </a>
   <h1 align="center">Hi there, I'm Hatef Kouzechi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <strong>AI Developer & Co-Founder of <a href="https://apolity.ai/">Apolity.ai</a></strong><br/>
+  <strong>AI Developer & Co-Founder of Apolofy</strong><br/>
   <em>Transforming ideas into intelligent solutions with cutting-edge AI technology</em>
 </div>
 
@@ -12,8 +12,8 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hkouzechi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/hkouzechi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://happydreammmer.github.io/public/cv/"><img src="https://img.shields.io/badge/Portfolio-478248?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="https://x.com/hatef_apolofy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://happydreammmer.github.io/public/"><img src="https://img.shields.io/badge/Portfolio-478248?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:h.kouzechi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
@@ -23,7 +23,7 @@
 
 I'm an AI Developer with a passion for building practical, intelligent applications. With a background spanning over 10 years in digital marketing, I possess a unique blend of business insight and technical skill. I made the exciting transition to AI development with the advent of LLMs and now specialize in creating production-ready apps using the JavaScript ecosystem and the latest in AI/ML.
 
-- 🔭 I’m currently co-founding **Apolity.ai**, an agency focused on practical AI solutions.
+- 🔭 I’m currently co-founding **Apolify.ai**, an agency focused on practical AI solutions.
 - 🌱 I’m constantly exploring new AI models and frameworks like **LangChain, Gemini, and Claude**.
 - 💬 Ask me about **AI App Development, Prompt Engineering, or AI-driven Marketing**.
 - ⚡ Fun fact: I pivoted my entire career from marketing to AI because I was so inspired by the potential of large language models!
@@ -51,10 +51,10 @@ Here are some of the projects I'm proud of. Feel free to check out the code and 
 
 | Project                                     | Description                                                                                                                   | Technologies Used                               | Links                                     |
 | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------- |
-| **🎥 DeepTube**                             | AI-powered YouTube analysis platform for video summaries, transcriptions, content ideation, and analytical insights.          | `OpenAI`, `React`, `LangChain`                  | `[Repo]` `[Live]`                         |
-| **🤝 Meeting Agent**                        | Smart meeting assistant with real-time transcription, searchable archives, and intelligent Q&A for previous meetings.          | `Claude API`, `Speech-to-Text`, `Vector DB`     | `[Repo]` `[Live]`                         |
-| **🎙️ Dictator**                             | Voice-to-prompt conversion system that eliminates typing, enabling natural voice interactions with AI systems.                  | `Gemini`, `Speech API`, `Real-time`             | `[Repo]` `[Live]`                         |
-| **🖼️ Osee**                                 | A powerful tool for analyzing images with multimodal AI, allowing users to upload and ask questions about multiple images.    | `Gemini Pro Vision`, `React`, `TypeScript`      | `[Repo]` `[Live]`                         |
+| **🎥 DeepTube**                             | AI-powered YouTube analysis platform for video summaries, transcriptions, content ideation, and analytical insights.          | `OpenAI`, `React`, `LangChain`                  | [Live](https://happydreammmer.github.io/public/deeptube) |
+| **🤝 Meeting Agent**                        | Smart meeting assistant with real-time transcription, searchable archives, and intelligent Q&A for previous meetings.          | `Claude API`, `Speech-to-Text`, `Vector DB`     | [Live](https://happydreammmer.github.io/public/meeting-agent) |
+| **🎙️ Dictator**                             | Voice-to-prompt conversion system that eliminates typing, enabling natural voice interactions with AI systems.                  | `Gemini`, `Speech API`, `Real-time`             | [Live](https://happydreammmer.github.io/public/dictator) |
+| **🖼️ Osee**                                 | A powerful tool for analyzing images with multimodal AI, allowing users to upload and ask questions about multiple images.    | `Gemini Pro Vision`, `React`, `TypeScript`      | [Live](https://happydreammmer.github.io/public/osee) |
 
 ---
 
@@ -64,7 +64,7 @@ Here are some of the projects I'm proud of. Feel free to check out the code and 
   I'm always open to discussing new projects, creative ideas, or opportunities to be part of an ambitious vision. <br/> Feel free to reach out to me!
   <br/><br/>
   <a href="https://www.linkedin.com/in/hkouzechi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/hkouzechi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://x.com/hatef_apolofy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:h.kouzechi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
