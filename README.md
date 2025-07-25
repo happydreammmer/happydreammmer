@@ -23,7 +23,7 @@
 
 I'm an AI Developer with a passion for building practical, intelligent applications. With a background spanning over 10 years in digital marketing, I possess a unique blend of business insight and technical skill. I made the exciting transition to AI development with the advent of LLMs and now specialize in creating production-ready apps using the JavaScript ecosystem and the latest in AI/ML.
 
-- 🔭 I’m currently co-founding **Apolify.ai**, an agency focused on practical AI solutions.
+- 🔭 I’m currently co-founding **Wadi Wadi**, an agency focused on practical AI solutions.
 - 🌱 I’m constantly exploring new AI models and frameworks like **LangChain, Gemini, and Claude**.
 - 💬 Ask me about **AI App Development, Prompt Engineering, or AI-driven Marketing**.
 - ⚡ Fun fact: I pivoted my entire career from marketing to AI because I was so inspired by the potential of large language models!
